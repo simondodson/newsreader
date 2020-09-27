@@ -23,8 +23,8 @@ export const StoryTitle = styled.h1`
   text-decoration: none;
 
   a {
-    color: #2e2e2c;
-    background-color: #f8dc3d;
+    color: #FFF;
+    background-color: #ff08c7;
     text-decoration: none;
   }
 `;
